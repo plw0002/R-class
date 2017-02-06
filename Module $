@@ -1,0 +1,5 @@
+F2<- function(x,y){
++ function() {
++ (x+y)/y
++ }
++ }
